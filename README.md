@@ -1,53 +1,51 @@
-# business-process-analysis-viettel-post
 # Business Process Analysis and Redesign for Viettel Post
 
-## Project Overview
+## Overview
 
-This project focuses on analyzing and redesigning Viettel Post's logistics process to improve operational efficiency and propose automation solutions.
+This academic project focuses on analyzing and redesigning Viettel Post's logistics process to improve operational efficiency and support digital transformation.
 
 ## Responsibilities
 
-- Analyzed the As-Is logistics process and identified inefficiencies.
-- Modeled business workflows using BPMN.
-- Redesigned the To-Be process and proposed automation solutions.
-- Designed ERD and DFD diagrams to support system analysis.
-- Developed an AppSheet prototype with automated email notifications.
-
-## Methodologies
-
-- Value-added Analysis
-- Waste Analysis
-- Queue Analysis
-- Fishbone Diagram
-- 5 Whys Analysis
+- Analyzed the current (As-Is) business process and identified inefficiencies.
+- Modeled As-Is and To-Be processes using BPMN.
+- Proposed process improvements and automation solutions.
+- Designed the database structure using ERD.
+- Documented business processes and system requirements.
 
 ## Deliverables
 
-### As-Is BPMN
+### BPMN Process Models
+- As-Is Process
+- To-Be Process
 
-![As-Is](diagrams/BPMN_AS_IS.png)
+### Entity Relationship Diagram
 
-### To-Be BPMN
+![ERD](ERD.png)
 
-![To-Be](diagrams/BPMN_TO_BE.png)
-
-### ERD
-
-![ERD](diagrams/ERD.png)
-
-### DFD
-
-![DFD](diagrams/DFD_Level0.png)
+### Final Report
+- Business Process Analysis
+- Problem Identification
+- Process Redesign
+- System Documentation
 
 ## Tools
 
 - BPMN
 - Draw.io
-- AppSheet
 - ERD
-- DFD
-- Decision Tree
+- AppSheet
+
+## Repository Structure
+
+```
+business-process-analysis-viettel-post
+│
+├── BPMN AS-IS_TO-BE.pdf
+├── ERD.png
+├── FINAL REPORT.pdf
+└── README.md
+```
 
 ## Project Type
 
-Academic Project - Business Process Analysis
+Academic Project – Business Process Analysis
